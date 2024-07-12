@@ -26,6 +26,7 @@ body{
 }
 .color-container h1{
   font-size: 35px;
+  text-decoration: underline;
 }
 input[type="color"]{
   padding: 2px;
