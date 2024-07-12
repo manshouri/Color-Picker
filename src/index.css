@@ -13,4 +13,21 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
+  border: 3px solid blue;
+  margin-bottom: 20px;
+  border-radius: 25px;
+}
+.color-display p{
+  font-size: 25px;
+}
+.color-container label{
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+.color-container h1{
+  font-size: 35px;
+}
+input[type="color"]{
+  padding: 2px;
+  border: 1px solid #f00;
 }
